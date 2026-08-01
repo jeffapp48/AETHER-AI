@@ -1,53 +1,63 @@
 # STATUS DO PROJETO
 
-**Projeto:** ÉTER-IA
+**Projeto:** AETHER-AI
 
-**Versão:** 0.0.1
+**Versão:** 0.1.0
 
-**Status Geral:** 🟢 Em Desenvolvimento
+**Status Geral:** 🟢 MVP funcional
 
 ---
 
 # Objetivo
 
-Construir uma plataforma que permita criar, gerenciar e evoluir agentes de Inteligência Artificial reutilizáveis, reduzindo tempo de trabalho, consumo de tokens e retrabalho.
+Criar e reutilizar agentes de Inteligência Artificial para reduzir tarefas repetitivas, retrabalho e consumo de tokens, sem exigir conhecimento técnico avançado do usuário.
 
 ---
 
-# Etapa Atual
+# Entregas concluídas
 
-✅ Repositório criado
-
-⏳ Construção da estrutura inicial
-
----
-
-# Agentes
-
-| Agente | Status |
-|---------|--------|
-| Diretor IA | Em construção |
-
----
-
-# Assets
-
-Nenhum asset criado.
+- ✅ Repositório configurado.
+- ✅ Manual de uso criado.
+- ✅ Catálogo de agentes criado.
+- ✅ Diretor IA criado.
+- ✅ Planejador criado.
+- ✅ Engenheiro de Especificação criado.
+- ✅ Compilador de Agentes criado.
+- ✅ Revisor criado.
+- ✅ Biblioteca de Assets criada.
+- ✅ Template de Agente criado.
+- ✅ Área de Projetos criada.
+- ✅ README atualizado.
 
 ---
 
-# Projetos
+# Agentes disponíveis
 
-Nenhum projeto criado.
+| ID | Agente | Status |
+|---|---|---|
+| 01 | Diretor IA | Pronto para teste |
+| 02 | Planejador | Pronto para teste |
+| 03 | Engenheiro de Especificação | Pronto para teste |
+| 04 | Compilador de Agentes | Pronto para teste |
+| 05 | Revisor | Pronto para teste |
 
 ---
 
-# Próxima Tarefa
+# Como iniciar
 
-Criar a estrutura de diretórios da plataforma.
+1. Abra `docs/MANUAL-DE-USO.md`.
+2. Carregue `agents/01-diretor-ia.md` no Claude ou ChatGPT.
+3. Faça uma solicitação real.
+4. Carregue somente os agentes adicionais indicados pelo Diretor.
 
 ---
 
-# Última Atualização
+# Próxima etapa operacional
+
+Executar o primeiro teste real: criar um agente especializado para uma tarefa repetitiva do usuário e registrar os ajustes necessários.
+
+---
+
+# Última atualização
 
 01/08/2026
