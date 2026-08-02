@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "MedicalBusiness",
+        "LocalBusiness"
+      ],
+      "@id": "https://www.sistemafisio.com/#organization",
+      "name": "Sistema Fisio",
+      "url": "https://www.sistemafisio.com/",
+      "telephone": "+5511961995757",
+      "description": "Clínica de fisioterapia ortopédica e traumatológica na Vila Lageado, Zona Oeste de São Paulo, com atendimento individualizado, terapia manual e exercícios específicos.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Av. General Mac Arthur, 1738",
+        "addressLocality": "São Paulo",
+        "addressRegion": "SP",
+        "postalCode": "05338-001",
+        "addressCountry": "BR"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Vila Lageado"
+        },
+        {
+          "@type": "Place",
+          "name": "Jaguaré"
+        },
+        {
+          "@type": "Place",
+          "name": "Vila Yara"
+        },
+        {
+          "@type": "Place",
+          "name": "Zona Oeste de São Paulo"
+        },
+        {
+          "@type": "Place",
+          "name": "Osasco"
+        }
+      ],
+      "medicalSpecialty": [
+        "Physiotherapy",
+        "Orthopedic"
+      ],
+      "knowsAbout": [
+        "Fisioterapia ortopédica",
+        "Fisioterapia traumatológica",
+        "Reabilitação pós-operatória",
+        "Fisioterapia para idosos",
+        "Osteopatia",
+        "Quiropraxia",
+        "Acupuntura",
+        "Pilates",
+        "Exercício terapêutico funcional"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Serviços da Sistema Fisio",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Fisioterapia ortopédica e traumatológica"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Reabilitação pós-operatória"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Pilates"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Exercício terapêutico funcional"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Osteopatia"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Quiropraxia"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Acupuntura"
+            }
+          }
+        ]
+      },
+      "paymentAccepted": "Atendimento particular",
+      "currenciesAccepted": "BRL",
+      "slogan": "Reabilitação, prevenção e treinamento",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Reembolso por plano de saúde",
+          "value": "A clínica fornece documentação para solicitação de reembolso, conforme as regras do contrato do paciente."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Programas de tratamento",
+          "value": "Programas de 5 ou 10 atendimentos, prescritos pelo fisioterapeuta após consulta diagnóstica e avaliação clínica."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Referências de localização",
+          "value": "Próxima ao Terminal Vila Yara e ao Shopping Continental."
+        }
+      ]
+    }
+  ]
+}
