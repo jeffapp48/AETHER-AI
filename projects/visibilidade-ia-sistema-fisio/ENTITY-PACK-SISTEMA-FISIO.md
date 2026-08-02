@@ -1,6 +1,6 @@
 # Entity Pack — Sistema Fisio
 
-**Versão:** 1.1  
+**Versão:** 1.2  
 **Data:** 02/08/2026  
 **Status:** Base oficial para site, perfis, diretórios e agentes de IA
 
@@ -16,7 +16,10 @@
 **Telefone e WhatsApp:** (11) 96199-5757  
 **Telefone fixo:** (11) 3768-6362  
 **Site:** https://www.sistemafisio.com/  
-**Horário:** segunda a sexta-feira, das 7h às 21h; fechado aos sábados.
+**Horário:** segunda a sexta-feira, das 7h às 21h; fechado aos sábados.  
+**Latitude:** -23.55260434280208  
+**Longitude:** -46.75627738971883  
+**Logotipo:** https://sistemafisio.com/wp-content/uploads/2024/08/Logo_Sistema_Fisio-1536x478.png
 
 ## 2. Responsável profissional
 
@@ -105,7 +108,9 @@ Não utilizar expressões como:
 - Site: https://www.sistemafisio.com/
 - Instagram: https://www.instagram.com/sistemafisio/
 - Facebook: https://www.facebook.com/sistemafisio
-- LinkedIn: https://www.linkedin.com/company/sistema-fisio/
+- LinkedIn informado: https://www.linkedin.com/company/sistema-fisio/posts/?viewAsMember=true
+- LinkedIn canônico: https://www.linkedin.com/company/sistema-fisio/
+- Logotipo: https://sistemafisio.com/wp-content/uploads/2024/08/Logo_Sistema_Fisio-1536x478.png
 
 ## 12. Regras de consistência
 
@@ -121,7 +126,8 @@ Todo canal público deve repetir de forma coerente:
 8. Responsável: Jefferson Garcia França — CREFITO-3 60618-F;
 9. Atendimento particular com possibilidade de reembolso;
 10. Programas de 5 ou 10 atendimentos, conforme avaliação;
-11. Localização próxima ao Terminal Vila Yara e Shopping Continental.
+11. Localização próxima ao Terminal Vila Yara e Shopping Continental;
+12. Coordenadas: -23.55260434280208, -46.75627738971883.
 
 ## 13. Canais que devem usar este documento
 
@@ -140,7 +146,6 @@ Todo canal público deve repetir de forma coerente:
 
 ## 14. Pendências para a próxima versão
 
-- Confirmar URL pública do logotipo;
-- Confirmar coordenadas geográficas;
-- Validar presencialmente os links de Facebook e LinkedIn antes da instalação final;
-- Validar a descrição final para o Google Perfil da Empresa.
+- Validar a descrição final para o Google Perfil da Empresa;
+- Confirmar se existe uma página pública individual de Jefferson Garcia França no site;
+- Validar o Schema após instalação no WordPress.
