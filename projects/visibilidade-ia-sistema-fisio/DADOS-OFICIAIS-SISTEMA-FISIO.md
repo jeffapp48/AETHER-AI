@@ -12,6 +12,8 @@
 - Cidade/UF: São Paulo/SP
 - CEP: 05338-001
 - Referência: próximo ao Terminal Vila Yara e ao Shopping Continental.
+- Latitude: -23.55260434280208
+- Longitude: -46.75627738971883
 
 ## Horário oficial
 
@@ -38,7 +40,9 @@ Os programas de tratamento podem ser de 5 ou 10 atendimentos. A quantidade e a f
 - Site: https://www.sistemafisio.com/
 - Instagram: https://www.instagram.com/sistemafisio/
 - Facebook: https://www.facebook.com/sistemafisio
-- LinkedIn: https://www.linkedin.com/company/sistema-fisio/
+- LinkedIn informado: https://www.linkedin.com/company/sistema-fisio/posts/?viewAsMember=true
+- LinkedIn canônico para uso técnico: https://www.linkedin.com/company/sistema-fisio/
+- Logotipo público: https://sistemafisio.com/wp-content/uploads/2024/08/Logo_Sistema_Fisio-1536x478.png
 
 ## Observação
 
