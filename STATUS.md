@@ -2,9 +2,9 @@
 
 **Projeto:** AETHER-AI
 
-**Versão:** 0.2.0
+**Versão:** 0.3.0
 
-**Status Geral:** 🟢 Estrutura de criação de agentes em desenvolvimento
+**Status Geral:** 🟢 Fluxo central documentado e pronto para teste integrado
 
 ---
 
@@ -38,16 +38,16 @@ Integrações e automações específicas são projetos produzidos pelos agentes
 - ✅ Repositório configurado.
 - ✅ Manual de uso criado.
 - ✅ Catálogo de agentes criado.
-- ✅ Diretor IA criado.
-- ✅ Planejador criado.
-- ✅ Engenheiro de Especificação criado.
-- ✅ Compilador de Agentes criado.
-- ✅ Revisor criado.
+- ✅ Cinco agentes centrais criados.
 - ✅ Biblioteca de Assets criada.
 - ✅ Template genérico de Agente criado.
 - ✅ Template oficial de AgentSpec criado.
 - ✅ Template oficial de testes criado.
 - ✅ Fluxo oficial de criação de agentes documentado.
+- ✅ Contratos de passagem entre agentes documentados.
+- ✅ Template de Briefing Essencial criado.
+- ✅ Template de Plano Executivo criado.
+- ✅ Template de Relatório de Revisão criado.
 - ✅ Área de Projetos criada.
 - ✅ README inicial criado.
 
@@ -57,11 +57,11 @@ Integrações e automações específicas são projetos produzidos pelos agentes
 
 | ID | Agente | Função | Status |
 |---|---|---|---|
-| 01 | Diretor IA | Entender, decidir e selecionar o menor fluxo | Pronto para revisão |
-| 02 | Planejador | Criar o Plano Executivo | Pronto para revisão |
-| 03 | Engenheiro de Especificação | Gerar o AgentSpec | Pronto para revisão |
-| 04 | Compilador de Agentes | Transformar AgentSpec em agente utilizável | Pronto para revisão |
-| 05 | Revisor | Testar e validar o agente | Pronto para revisão |
+| 01 | Diretor IA | Entender, decidir e selecionar o menor fluxo | Pronto para teste integrado |
+| 02 | Planejador | Criar o Plano Executivo | Pronto para teste integrado |
+| 03 | Engenheiro de Especificação | Gerar o AgentSpec | Pronto para teste integrado |
+| 04 | Compilador de Agentes | Transformar AgentSpec em agente utilizável | Pronto para teste integrado |
+| 05 | Revisor | Testar e validar o agente | Pronto para teste integrado |
 
 ---
 
@@ -69,23 +69,31 @@ Integrações e automações específicas são projetos produzidos pelos agentes
 
 - `docs/MANUAL-DE-USO.md`
 - `docs/FLUXO-OFICIAL-CRIACAO-DE-AGENTES.md`
+- `docs/CONTRATOS-ENTRE-AGENTES.md`
+- `templates/BRIEFING-ESSENCIAL-TEMPLATE.md`
+- `templates/PLANO-EXECUTIVO-TEMPLATE.md`
 - `templates/AGENT-SPEC-TEMPLATE.md`
 - `templates/AGENT-TEST-TEMPLATE.md`
+- `templates/RELATORIO-REVISAO-TEMPLATE.md`
 
 ---
 
 # Fluxo atual
 
 ```text
-Necessidade do usuário
+Briefing Essencial
         ↓
 Diretor IA
         ↓
-Planejador
+Plano Executivo
         ↓
 Engenheiro de Especificação
         ↓
+AgentSpec
+        ↓
 Compilador de Agentes
+        ↓
+Pacote do Agente
         ↓
 Revisor
         ↓
@@ -96,11 +104,11 @@ Agente especializado aprovado e registrado
 
 # Próxima etapa operacional
 
-1. Revisar e padronizar os cinco agentes centrais.
-2. Criar o protocolo de passagem de trabalho entre os agentes.
-3. Criar o catálogo de componentes reutilizáveis.
-4. Executar o primeiro teste oficial criando um agente hiperespecializado.
-5. Registrar os resultados e corrigir o fluxo.
+1. Atualizar os cinco agentes centrais para referenciar os contratos oficiais.
+2. Executar o primeiro teste integrado criando um agente hiperespecializado.
+3. Registrar briefing, plano, especificação, prompt e revisão no projeto de teste.
+4. Corrigir falhas encontradas no fluxo.
+5. Publicar o primeiro agente especializado aprovado no catálogo.
 
 ---
 
