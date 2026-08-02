@@ -9,19 +9,29 @@
       "@id": "https://www.sistemafisio.com/#organization",
       "name": "Sistema Fisio",
       "url": "https://www.sistemafisio.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://www.sistemafisio.com/#logo",
+        "url": "https://sistemafisio.com/wp-content/uploads/2024/08/Logo_Sistema_Fisio-1536x478.png",
+        "contentUrl": "https://sistemafisio.com/wp-content/uploads/2024/08/Logo_Sistema_Fisio-1536x478.png",
+        "caption": "Logotipo da Sistema Fisio"
+      },
+      "image": {
+        "@id": "https://www.sistemafisio.com/#logo"
+      },
       "telephone": "+5511961995757",
       "contactPoint": [
         {
           "@type": "ContactPoint",
           "telephone": "+5511961995757",
           "contactType": "customer service",
-          "availableLanguage": "Portuguese"
+          "availableLanguage": "pt-BR"
         },
         {
           "@type": "ContactPoint",
           "telephone": "+551137686362",
           "contactType": "customer service",
-          "availableLanguage": "Portuguese"
+          "availableLanguage": "pt-BR"
         }
       ],
       "sameAs": [
@@ -38,6 +48,11 @@
         "postalCode": "05338-001",
         "addressCountry": "BR"
       },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -23.55260434280208,
+        "longitude": -46.75627738971883
+      },
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
@@ -53,9 +68,6 @@
         }
       ],
       "employee": {
-        "@id": "https://www.sistemafisio.com/#jefferson-garcia-franca"
-      },
-      "founder": {
         "@id": "https://www.sistemafisio.com/#jefferson-garcia-franca"
       },
       "areaServed": [
