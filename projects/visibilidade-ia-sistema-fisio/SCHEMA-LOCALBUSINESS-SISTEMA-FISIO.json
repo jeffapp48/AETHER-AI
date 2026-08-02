@@ -10,6 +10,25 @@
       "name": "Sistema Fisio",
       "url": "https://www.sistemafisio.com/",
       "telephone": "+5511961995757",
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+5511961995757",
+          "contactType": "customer service",
+          "availableLanguage": "Portuguese"
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+551137686362",
+          "contactType": "customer service",
+          "availableLanguage": "Portuguese"
+        }
+      ],
+      "sameAs": [
+        "https://www.instagram.com/sistemafisio/",
+        "https://www.facebook.com/sistemafisio",
+        "https://www.linkedin.com/company/sistema-fisio/"
+      ],
       "description": "Clínica de fisioterapia ortopédica e traumatológica na Vila Lageado, Zona Oeste de São Paulo, com atendimento individualizado, terapia manual e exercícios específicos.",
       "address": {
         "@type": "PostalAddress",
@@ -18,6 +37,26 @@
         "addressRegion": "SP",
         "postalCode": "05338-001",
         "addressCountry": "BR"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "07:00",
+          "closes": "21:00"
+        }
+      ],
+      "employee": {
+        "@id": "https://www.sistemafisio.com/#jefferson-garcia-franca"
+      },
+      "founder": {
+        "@id": "https://www.sistemafisio.com/#jefferson-garcia-franca"
       },
       "areaServed": [
         {
@@ -130,6 +169,22 @@
           "name": "Referências de localização",
           "value": "Próxima ao Terminal Vila Yara e ao Shopping Continental."
         }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.sistemafisio.com/#jefferson-garcia-franca",
+      "name": "Jefferson Garcia França",
+      "jobTitle": "Fisioterapeuta responsável",
+      "identifier": "CREFITO-3 60618-F",
+      "worksFor": {
+        "@id": "https://www.sistemafisio.com/#organization"
+      },
+      "knowsAbout": [
+        "Fisioterapia ortopédica",
+        "Fisioterapia traumatológica",
+        "Terapia manual",
+        "Reabilitação funcional"
       ]
     }
   ]
