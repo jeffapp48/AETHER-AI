@@ -1,50 +1,81 @@
-# Calendário Editorial — 30 Dias
+# Calendário Editorial — Framework V2
 
-## Critérios de seleção
+## Princípio
 
-Temas escolhidos por combinação de: frequência em educação musculoesquelética/ortopédica, dúvidas recorrentes de pacientes, impacto funcional no dia a dia, potencial de busca e capacidade de gerar identificação em vídeo curto.
+O calendário deve caber na rotina de um fisioterapeuta. A meta não é publicar diariamente.
 
-| Dia | Tema | Ângulo/Gancho | Objetivo |
-|---|---|---|---|
-| 1 | Artrose no joelho | “Seu joelho não virou um pneu careca só porque o laudo disse artrose.” | Quebrar medo do diagnóstico |
-| 2 | Dor lombar ao levantar | “Se levantar da cama parece abertura de cofre antigo…” | Identificação + avaliação |
-| 3 | Ciática | “Nem toda dor que desce pela perna é ‘o nervo ciático revoltado’.” | Educação |
-| 4 | Dor no ombro à noite | “Seu ombro espera você deitar para começar o plantão?” | Identificação |
-| 5 | Fascite plantar | “O primeiro passo da manhã parece pisar num LEGO?” | Educação + tratamento |
-| 6 | Estalos no joelho | “Seu joelho faz mais barulho que pacote de salgadinho. Isso é problema?” | Mito/verdade |
-| 7 | Hérnia de disco | “Hérnia no exame não é ordem de despejo para sua coluna.” | Reduzir catastrofização |
-| 8 | Manguito rotador | “Levantar a xícara dói, mas você insiste em chamar de idade?” | Identificação |
-| 9 | Dor cervical/celular | “Seu pescoço não foi projetado para trabalhar como suporte de celular.” | Prevenção |
-| 10 | Artrose e exercício | “Guardar o joelho na embalagem não conserva a articulação.” | Incentivar movimento |
-| 11 | Tendinite/tendinopatia | “Seu tendão não lê atestado de repouso eterno.” | Educação |
-| 12 | Dor no quadril | “Entrar no carro virou uma pequena coreografia?” | Identificação |
-| 13 | Síndrome do túnel do carpo | “A mão dorme mais rápido que você?” | Educação |
-| 14 | Esporão de calcâneo | “O raio-X achou um esporão. Parabéns: ele pode nem ser o culpado.” | Desmistificação |
-| 15 | Dor no joelho ao subir escadas | “A escada virou detector de defeito do joelho?” | Função + causas |
-| 16 | Fraqueza nas pernas 50+ | “A cadeira ficou mais baixa ou suas pernas perderam força?” | Prevenção funcional |
-| 17 | Medo de cair | “Andar devagar demais também pode ser sinal de insegurança, não de prudência.” | Prevenção de quedas |
-| 18 | Dor no ombro para vestir roupa | “Colocar a camiseta virou prova prática de anatomia?” | Identificação |
-| 19 | Lombalgia e repouso | “Sofá não é tratamento de coluna com encosto premium.” | Quebrar mito |
-| 20 | Dor após corrida/caminhada | “Seu corpo não odeia exercício; talvez odeie o aumento de carga de uma vez.” | Gestão de carga |
-| 21 | Torção de tornozelo | “Passou o inchaço, então acabou? O tornozelo não recebeu esse memorando.” | Reabilitação |
-| 22 | Pós-operatório de joelho | “A cirurgia consertou a estrutura; ela não fez sua musculatura voltar por Wi‑Fi.” | Reabilitação |
-| 23 | Dor anterior no joelho | “Agachar dói? Não significa que seu joelho foi proibido de agachar.” | Educação |
-| 24 | Ombro congelado | “Seu ombro parece ter colocado senha nos movimentos?” | Educação |
-| 25 | Dor no cotovelo/tênis elbow | “Você não joga tênis, mas ganhou cotovelo de tenista. Excelente programa de fidelidade.” | Identificação |
-| 26 | Rigidez pela manhã | “Seu corpo leva mais tempo para iniciar que computador antigo?” | Educação/triagem |
-| 27 | Postura e dor | “A postura perfeita existe no mesmo lugar que a cadeira perfeita: no marketing.” | Quebrar mito |
-| 28 | Dor crônica | “Dor há meses não significa necessariamente tecido ‘estragando’ há meses.” | Educação sobre dor |
-| 29 | Fortalecimento para artrose | “Músculo forte é o segurança particular da sua articulação.” | Benefício do exercício |
-| 30 | Quando procurar fisioterapia | “Esperar a dor ficar insuportável é como chamar o encanador quando a sala já virou piscina.” | Conversão |
+**Compromisso-base:** 2 Reels por semana.
+**Opcional:** 1 Reel bônus quando houver tempo, oportunidade ou tema vencedor.
+**Ciclo de 4 semanas:** 8 conteúdos obrigatórios + até 4 bônus.
 
-## Distribuição editorial
+## Cinco funções editoriais
 
-- Dor/diagnóstico: 12 conteúdos
-- Mitos e medo do exame: 6 conteúdos
-- Exercício e prevenção: 6 conteúdos
-- Função cotidiana/50+: 4 conteúdos
-- Pós-lesão/pós-operatório: 2 conteúdos
+| Função | Papel | Conteúdo típico | CTA mais provável | Métrica principal |
+|---|---|---|---|---|
+| Atração | alcançar novas pessoas | dúvidas amplas, mitos, sintomas comuns, temas de interesse | seguir/compartilhar | não seguidores, retenção, compartilhamentos |
+| Identificação | gerar “isso acontece comigo” | sinais, sintomas e limitações da rotina | salvar/compartilhar | salvamentos, comentários, compartilhamentos |
+| Confiança | demonstrar competência | ciência traduzida, explicação clínica, mitos, tratamento | salvar/seguir | conclusão, salvamentos, visitas ao perfil |
+| Autoridade | mostrar experiência real | bastidores, raciocínio, prática, estrutura, prova permitida | seguir/conhecer | visitas, seguidores qualificados, contatos |
+| Conversão | estimular ação | sintomas persistentes, perda funcional, recorrência, pós-operatório | agendar/contato | contatos e agendamentos |
 
-## Cadência sugerida
+## Distribuição inicial dos 8 conteúdos-base
 
-Um Reel por dia no ciclo inicial. Após 30 dias, revisar retenção, compartilhamentos, salvamentos, comentários e contatos gerados; os melhores temas devem gerar variações, respostas a dúvidas e séries.
+- 2 Atração
+- 2 Identificação
+- 2 Confiança
+- 1 Autoridade
+- 1 Conversão
+
+Não é uma proporção definitiva. Após os primeiros ciclos, métricas reais podem mudar a distribuição.
+
+## Ordem sugerida — ciclo de 4 semanas
+
+### Semana 1
+1. Atração
+2. Identificação
+3. Bônus opcional: Confiança ou Double Down
+
+### Semana 2
+4. Confiança
+5. Atração
+6. Bônus opcional: tema oportuno
+
+### Semana 3
+7. Identificação
+8. Autoridade
+9. Bônus opcional: Double Down no melhor conteúdo das semanas anteriores
+
+### Semana 4
+10. Confiança
+11. Conversão
+12. Bônus opcional: resposta a dúvida, tendência ou vencedor do ciclo
+
+Os números 1–12 representam posições de produção/publicação, não dias fixos do mês.
+
+## Regras do calendário
+
+1. Não publicar cinco etapas como um funil rígido em sequência.
+2. Garantir que as cinco funções apareçam no ciclo.
+3. Não criar tema novo apenas para preencher espaço.
+4. Se um tema performar bem, aplicar Double Down com outro ângulo ou função editorial.
+5. Conteúdo bônus nunca vira obrigação atrasada.
+6. O calendário pode ser deslocado quando a rotina clínica impedir gravação.
+7. Ciência deve sustentar a mensagem; não é obrigatório verbalizar artigo em todo Reel.
+8. Conteúdo de Confiança/Ciência Traduzida deve priorizar referência explícita quando isso aumentar credibilidade.
+9. Conversão não deve dominar o feed.
+10. A próxima pauta deve considerar retenção, compartilhamentos, salvamentos, seguidores, visitas ao perfil e contatos.
+
+## Como selecionar os temas
+
+O Pesquisador de Tendências identifica territórios de interesse. O Pesquisador Científico valida o que pode ser afirmado. Depois, cada tema recebe uma função editorial.
+
+Exemplo de Double Down para um único território — dor no joelho ao descer escada:
+- Atração: “Por que tanta gente sente o joelho justamente na escada?”
+- Identificação: sinais e situações cotidianas associados.
+- Confiança: explicar carga, força e possíveis mecanismos com ciência traduzida.
+- Autoridade: mostrar como uma avaliação funcional investiga a dificuldade, sem diagnosticar pela internet.
+- Conversão: quando a limitação persistente justifica avaliação individual.
+
+## Status
+
+Este arquivo define a arquitetura do calendário. Os temas do primeiro ciclo V2 serão pesquisados e escolhidos somente após aprovação desta estrutura.
