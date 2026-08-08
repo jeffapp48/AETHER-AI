@@ -2,44 +2,86 @@
 
 ## Objetivo
 
-Criar uma operação enxuta de conteúdo para Instagram focada em fisioterapia ortopédica, dores articulares, diagnósticos musculoesqueléticos, prevenção e reabilitação.
+Criar uma operação enxuta de conteúdo para Instagram/Reels focada em fisioterapia ortopédica e traumatológica, dores articulares, sinais e sintomas, prevenção e reabilitação.
 
-A operação deve pesquisar temas atuais, selecionar os assuntos com maior potencial de interesse do público leigo, transformar conhecimento técnico em linguagem simples e produzir conteúdo pronto para gravação e publicação.
+A Mini Agência deve funcionar como uma equipe editorial coordenada, mas o usuário interage com um único ponto de entrada.
 
-## Público principal
+## Como acionar
 
-Adultos e pessoas 50+ com dores musculoesqueléticas, limitações funcionais, receio de cirurgia, dúvidas sobre diagnósticos ortopédicos e interesse em recuperar mobilidade e qualidade de vida.
+Comando principal:
 
-## Tom editorial
+`Mini Agência, crie o próximo ciclo.`
 
-- profissional e acessível;
-- persuasivo, sem promessas de cura;
-- sarcasmo leve e inteligente;
-- comparações com situações da rotina diária;
-- evitar humilhar, culpabilizar ou ridicularizar quem sente dor;
-- foco em educação, identificação do problema e ação segura.
+Outros comandos naturais:
 
-## Fluxo
+- `Mini Agência, próximo conteúdo.`
+- `Mini Agência, crie um conteúdo sobre [tema].`
+- `Mini Agência, registre o Reel [número] como gravado.`
+- `Mini Agência, registre o Reel [número] como publicado.`
+- `Mini Agência, analise os resultados do ciclo.`
 
-1. Pesquisar tendências e dúvidas recorrentes.
-2. Agrupar temas por problema/região corporal/intenção.
-3. Pontuar relevância clínica + interesse leigo + potencial de Reel.
-4. Selecionar os 30 melhores.
-5. Distribuir no calendário editorial.
-6. Criar roteiro de vídeo curto.
-7. Criar legenda persuasiva com emojis.
-8. Selecionar exatamente 6 hashtags relevantes.
-9. Revisar precisão clínica, clareza, persuasão e repetição.
-10. Liberar conteúdo para gravação/publicação.
+Variações equivalentes devem ser entendidas sem exigir frase exata.
 
-## Arquivos
+## Cadência
 
-- `CALENDARIO-EDITORIAL-30-DIAS.md` — agenda e temas selecionados.
-- `ROTEIROS-30-REELS.md` — roteiros, copies, legendas e hashtags.
-- `AGENTE-MINI-AGENCIA.md` — instruções reutilizáveis para gerar novos ciclos.
+- 2 Reels obrigatórios por semana.
+- até 1 Reel bônus por semana.
+- ciclo de 4 semanas: 8 conteúdos-base + até 4 bônus.
+- bônus nunca vira obrigação atrasada.
+
+## Estratégia editorial
+
+ATRAÇÃO → IDENTIFICAÇÃO → CONFIANÇA → AUTORIDADE → CONVERSÃO
+
+As cinco funções coexistem no feed; não formam um funil cronológico rígido.
+
+## Fluxo interno
+
+1. Pesquisador de Tendências identifica territórios de interesse.
+2. Pesquisador Científico encontra e resume a melhor evidência disponível.
+3. Copywriter especialista em Semiologia transforma sinais e sintomas em ganchos e promessas editoriais.
+4. Fisioterapeuta Comunicador traduz ciência e tratamento com analogias, sem entregar protocolo individual.
+5. Editor de Conversão escolhe CTA coerente.
+6. Revisor Clínico e Editorial valida a entrega.
+
+## Onde ficam os conteúdos
+
+Os arquivos que definem como a Mini Agência funciona ficam na raiz deste projeto.
+
+Os conteúdos produzidos ficam em:
+
+`ciclos/AAAA-MM/`
+
+Cada ciclo possui:
+
+- `CALENDARIO.md` — visão gerencial, ordem, função editorial e status.
+- `CONTEUDOS.md` — roteiros completos, legenda, CTA e hashtags.
+- `FONTES.md` — referências científicas, evidência e aplicação na copy.
+- `RESULTADOS.md` — métricas e decisões de Double Down.
+
+O diretório `ciclos/TEMPLATE/` contém os modelos oficiais para novos ciclos.
+
+## Status de produção
+
+`Planejado → Aprovado → A gravar → Gravado → Publicado → Analisado`
+
+## Regra de acesso
+
+O GitHub é a memória permanente da operação. A conversa com a IA é a interface de trabalho. O usuário não precisa abrir os arquivos para trabalhar diariamente: pode pedir `Mini Agência, próximo conteúdo.` e a IA deve consultar o ciclo ativo e entregar somente o Reel necessário.
+
+## Double Down
+
+Temas vencedores podem retornar com novo gancho, novo formato ou outra função editorial. Métricas reais orientam a prioridade do ciclo seguinte.
+
+## Arquivos estruturais
+
+- `AGENTE-MINI-AGENCIA.md` — arquitetura V2 e regras do agente.
+- `CALENDARIO-EDITORIAL-30-DIAS.md` — framework do calendário V2; o nome permanece por compatibilidade histórica.
 - `CRITERIOS-DE-REVISAO.md` — padrão de qualidade e segurança.
-- `FONTES-E-PESQUISA.md` — metodologia de pesquisa e referências-base.
+- `FONTES-E-PESQUISA.md` — metodologia e referências-base.
+- `ROTEIROS-30-REELS.md` — material legado do protótipo inicial; não define mais a operação V2.
+- `ciclos/` — produção mensal ativa.
 
 ## Regra de atualização
 
-Antes de gerar um novo ciclo mensal, repetir a pesquisa web e redes sociais. Tendência é usada para priorização editorial; informações clínicas devem ser validadas em fontes confiáveis.
+Antes de cada novo ciclo, repetir pesquisa de tendências e pesquisa científica, considerar as métricas do ciclo anterior e evitar criar conteúdo apenas para preencher calendário.
